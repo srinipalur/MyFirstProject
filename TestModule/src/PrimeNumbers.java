@@ -1,4 +1,4 @@
-public class Test {
+public class PrimeNumbers {
     public static void main(String[] args) {
         int count,prime_sum=1;
         for(int i=3;i<100;i+=2)
